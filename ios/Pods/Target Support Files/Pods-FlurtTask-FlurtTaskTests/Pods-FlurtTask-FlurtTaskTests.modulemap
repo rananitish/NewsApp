@@ -1,0 +1,6 @@
+module Pods_FlurtTask_FlurtTaskTests {
+  umbrella header "Pods-FlurtTask-FlurtTaskTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
